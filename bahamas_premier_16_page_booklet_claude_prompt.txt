@@ -1,0 +1,1494 @@
+# BAHAMAS PREMIER PARENT WELCOME BOOKLET
+# 16-PAGE CLAUDE DESIGN + COPY PROMPT
+
+## PROJECT GOAL
+
+Create a complete, premium, design-ready 16-page Parent Welcome Booklet blueprint for Bahamas Premier Girls Fastpitch.
+
+This booklet is for parents and guardians of athletes joining the Premier Kids' Softball Program. It should feel like a polished welcome packet from a serious youth sports organization, not a plain document, not a generic Canva template, and not a cheap flyer.
+
+The final booklet will be designed later in Canva, Figma, Google Slides, InDesign, or as an HTML/CSS print-ready PDF. For now, create the complete blueprint, final copy, layout direction, and visual placeholders.
+
+Do not rely on opening website links. All content needed is included below.
+
+Do not generate the final PDF yet.
+Do not use filler images.
+Do not use generic stock-style copy.
+Do not leave any section vague.
+Do not say “add content here” except for specified placeholders for assets, payment details, directions, QR codes, and other items that will be uploaded later.
+Do not make the booklet text-heavy. Condense copy into strong, parent-facing language.
+
+The booklet should be approximately 16 pages. Do not expand to 24 pages unless specifically instructed later. Combine related sections strategically so the booklet feels concise, premium, and easy for parents to read.
+
+## OUTPUT FORMAT
+
+Create the full booklet plan page by page.
+
+For every page, include:
+
+Page Number
+Page Title
+Purpose of the Page
+Final Polished Copy
+Layout Direction
+Visual Placeholders
+Designer Notes
+
+The goal is to hand this directly to a designer or use it inside a design/build tool with no confusion.
+
+## REQUIRED PLACEHOLDERS
+
+Use these exact placeholders wherever needed:
+
+[LOGO PLACEHOLDER]
+[HERO IMAGE PLACEHOLDER]
+[FOUNDER HEADSHOT PLACEHOLDER]
+[FOUNDER SIGNATURE PLACEHOLDER]
+[PROGRAM PHOTO PLACEHOLDER]
+[SOFTBALL ACTION PHOTO PLACEHOLDER]
+[QR CODE PLACEHOLDER]
+[SPONSOR LOGO PLACEHOLDER]
+[ICON PLACEHOLDER]
+[PATHWAY GRAPHIC PLACEHOLDER]
+[ECOSYSTEM GRAPHIC PLACEHOLDER]
+[CALENDAR TABLE PLACEHOLDER]
+[EQUIPMENT IMAGE PLACEHOLDER]
+[PAYMENT INFORMATION PLACEHOLDER]
+[DIRECTIONS PLACEHOLDER]
+[GOOGLE MAPS QR CODE PLACEHOLDER]
+[TIMELINE GRAPHIC PLACEHOLDER]
+[PULL QUOTE PLACEHOLDER]
+[GLOVE SIZE CHART PLACEHOLDER]
+[BAT SIZE CHART PLACEHOLDER]
+
+Do not invent logos, images, QR codes, map links, or payment details.
+
+## BRAND OVERVIEW
+
+Brand Name:
+Bahamas Premier Girls Fastpitch
+
+Main Tagline:
+The Future of Bahamas Softball Lives Here
+
+Core Description:
+Bahamas Premier Girls Fastpitch is an elite youth softball ecosystem created to revolutionize softball in The Bahamas and nurture the next generation of Bahamian girls.
+
+Bahamas Premier is built to grow the game, raise the standard, develop the whole girl, and create real pathways from first swing to higher-level opportunity.
+
+Founded by former Bahamas National Softball Team athlete and coach Shawnté Curtis, Bahamas Premier exists to raise the national standard of softball development, structure, coaching, competition, and opportunity.
+
+## BRAND TONE
+
+The booklet should feel:
+
+Professional
+Warm
+Organized
+Inspirational
+Parent-friendly
+Youth-sports focused
+Polished but not corporate
+Serious but still welcoming
+Bright but not childish
+Community-centered
+Mission-driven
+Clear and easy to skim
+
+The tone should help parents feel that their daughter is joining a safe, structured, meaningful, and visionary program.
+
+## VISUAL STYLE DIRECTION
+
+Use a clean, modern youth sports organization style.
+
+Use:
+
+Large section headings
+Rounded cards
+Softball-inspired icons
+Checklists
+Timelines
+Pathway graphics
+Parent-friendly tables
+Pull quotes
+Section divider pages
+Spacious layouts
+Short paragraphs
+Bold callout boxes
+Mission-driven section openers
+Clean typography
+Strong visual hierarchy
+Premium editorial spacing
+Warm, energetic sports design
+
+Leave all image, logo, QR code, and sponsor areas blank.
+
+## KEY BRAND LANGUAGE TO USE THROUGHOUT
+
+Use these phrases where appropriate:
+
+The Future of Bahamas Softball Lives Here
+Building the Future of Girls Softball in The Bahamas
+A Two-Track Pipeline. One Vision.
+Your Daughter's Journey Starts Here
+A Development System Built for Long-Term Growth
+Join the Movement
+More Than a Game
+Softball Builds Champions
+Bahamas Premier is closing that gap.
+Every program, every practice, and every moment is built on these foundational principles.
+Softball excellence is the standard. Whole-girl development is the mission.
+
+## MISSION
+
+Bahamas Premier Girls Fastpitch is an elite youth softball ecosystem committed to revolutionizing softball in The Bahamas while developing the next generation of Bahamian girls on and off the field.
+
+## VISION
+
+Bahamas Premier exists to become the premier softball organization in The Bahamas and a leading model for youth softball development across the Caribbean.
+
+The vision is to create a long-term ecosystem where Bahamian girls can access quality coaching, age-appropriate development, competitive opportunity, mentorship, leadership development, and pathways to higher-level softball without having to leave the country to find it.
+
+## FOUR KEY PILLARS
+
+Every program, every practice, and every moment is built on these foundational principles.
+
+Grow the Game
+Increase national access and participation in softball by introducing more girls to the sport earlier and lowering barriers to entry.
+
+Raise the Standard
+Elevate how softball is trained, coached, officiated, and played across The Bahamas.
+
+Develop the Whole Girl
+Use softball as a vehicle to build confident, disciplined, educated, God-fearing, and empowered young women.
+
+Bring Opportunity Home
+Create in-country pathways for elite training, competition, and exposure so Bahamian softball players can succeed within their own borders.
+
+## DEVELOPMENTAL GAP IN THE BAHAMAS
+
+Currently, there are limited structured softball programs for girls under age 10.
+
+Most Bahamian girls begin softball around ages 11 to 13.
+
+Girls in countries like the United States, Japan, and Canada often begin around ages 4 to 6.
+
+This delayed start creates a gap in skill development, confidence, game IQ, athletic development, and long-term opportunity.
+
+Bahamas Premier is closing that gap.
+
+## WHY WE EXIST
+
+Many young Bahamian girls have no clear entry point into softball, with most youth programs focused on baseball.
+
+Limited access to structured girls' sports programs has contributed to low participation in softball and sports in general for young Bahamian girls.
+
+Most Bahamian girls start softball later than their international peers, limiting long-term development opportunities.
+
+The overall quality of the game must improve, from player development to coaching, officiating, and culture, to create a better experience and more opportunities for future generations.
+
+Too often, players must leave the country to access elite training, competition, and recruiting opportunities.
+
+Bahamas Premier is creating a system designed to close these gaps and create a stronger future for softball in The Bahamas.
+
+## MORE THAN A PROGRAM
+
+Bahamas Premier is not a one-off camp, short season, or temporary program. It is a long-term ecosystem and community designed to support girls from their first swing to higher-level opportunities.
+
+The goal is to become the premier softball organization of The Bahamas and set the standard for youth softball in the country and across the Caribbean.
+
+Bahamas Premier is not only focused on player development. The organization is working to transform the entire softball space through player development, whole-girl growth, coaching education, parent support, competitive teams, umpire standards, college readiness, in-country opportunity, and community.
+
+## ECOSYSTEM GRAPHIC CONTENT
+
+Create an ecosystem graphic using these parts:
+
+Player Development
+Whole-Girl Growth
+Parent Support
+Coach Education
+Umpire Standards
+Competitive Teams
+College Readiness
+National Team Feeder
+In-Country Opportunity
+Community / Village
+
+The center of the graphic should say:
+
+Bahamas Premier Girls Fastpitch
+
+## WHAT MAKES BAHAMAS PREMIER DIFFERENT
+
+Use this content as polished copy, but condense where needed for page fit.
+
+Strategic Development Pipeline
+Bahamas Premier is not a one-off season or camp. It is a long-term development pathway designed to serve girls from their first swing to higher-level opportunities.
+
+Development Over Competition
+At the early stages, we prioritize long-term growth over short-term results. Success is not measured only by wins or scores. It is measured by confidence, fundamentals, effort, skill growth, and love for the game.
+
+Honoring Childhood
+Young athletes should enjoy the game, build friendships, move their bodies, and develop confidence without being overwhelmed too early. We believe fun and development can exist together.
+
+Intentional Training
+Every session is structured, planned, and purposeful. We do not rely on random drills or unorganized instruction.
+
+Efficient Sessions
+Our sessions use small groups, station work, appropriate player-to-coach ratios, smooth transitions, and limited wasted time so athletes stay engaged and active.
+
+Structured Curriculum
+Athletes learn through an age-appropriate development system designed to build skills progressively over time.
+
+Progress Tracking
+Bahamas Premier plans to use Premier Player Reports to help families understand player growth, development focus areas, and next steps.
+
+Athleticism-First Approach
+Speed, coordination, strength, balance, agility, and body control are prioritized as the foundation for long-term softball success.
+
+Whole-Girl Development
+Bahamas Premier intentionally integrates personal, cognitive, and social growth opportunities into the softball experience.
+
+Village Approach
+The organization creates a supportive community so every girl feels encouraged, seen, and supported.
+
+In-Country Opportunity Mindset
+Bahamas Premier wants to create more high-level training, competition, exposure, and development opportunities within The Bahamas.
+
+## FOUNDER BIO
+
+Use this to create the founder page.
+
+Shawnté Curtis is a former national team athlete and present coach dedicated to transforming the future of softball in The Bahamas.
+
+Her journey began at just five years old at the Freedom Farm Baseball League, where she played baseball in the absence of opportunities for girls in softball. For years, she competed alongside boys, often as the only girl on her team and in entire tournaments, gaining firsthand experience in the realities of limited access for young female athletes. That experience would later shape her vision to create a space specifically for young Bahamian girls in softball.
+
+After transitioning to softball at age 12, Shawnté went on to represent The Bahamas on both the Junior and Senior National Teams, while also competing in travel ball. Through international competition, she saw a consistent gap in development, structure, and resources between Bahamian athletes and their global counterparts, fueling her belief that the sport must be intentionally developed at home.
+
+Although she did not have the guidance needed to pursue collegiate softball, Shawnté earned a degree in Sport Administration and remained committed to the game. She began her professional coaching career in Atlanta, working as an instructor at a baseball and softball training facility and coaching travel teams. There, she gained exposure to high-level training environments and saw firsthand what it takes to develop elite athletes.
+
+Softball has been a defining force in Shawnté's life, providing opportunities, discipline, and life lessons that extend far beyond the field. Today, through Bahamas Premier, she is focused on elevating the entire softball ecosystem and raising the standard of the sport in The Bahamas.
+
+Suggested founder page headline:
+
+Founded by Shawnté Curtis
+Former National Team Athlete. Coach. Builder of the Future of Bahamian Softball.
+
+Suggested pull quote:
+
+“Softball changed my life. Now I want to help build a system that changes the lives of Bahamian girls for generations.”
+
+## PROGRAM OVERVIEW
+
+Kids' Softball Program
+Ages 5 to 10
+
+The Premier Kids' Softball Program is a first-of-its-kind program introducing young Bahamian girls to softball through structured, age-appropriate training that prioritizes fun, fundamentals, athletic development, and long-term growth.
+
+Program details:
+
+Start: June 14
+Length: 10 weeks
+Dates: June 14 to August 16
+Frequency: Every Sunday
+Location: St. Augustine's College
+Session Length: 1 hour
+Fee: $100
+
+Age groups:
+
+6U, ages 5 to 6
+Basic skills, foundational movement, and introduction to the game through fun instruction.
+
+8U, ages 7 to 8
+Fundamentals, athleticism, and simple game concepts.
+
+10U, ages 9 to 10
+Skill refinement, confidence, and preparation for advanced training.
+
+Premier Girls Development Program
+Ages 11 to 17
+
+The Premier Girls Development Program is the next stage in the long-term development pathway. It is a college-modeled, high-performance program for middle school and high school athletes ready to grow into elite competitors.
+
+This program will focus on:
+
+Technical mastery
+Advanced athletic development
+Individualized development
+Performance preparation
+Competitive teams
+Recruiting preparation
+College readiness
+National team pathway preparation
+
+Launching at a later date.
+
+## DEVELOPMENT PATHWAY
+
+Use this as a visual pathway page:
+
+6U
+T-Ball
+Ages 5 to 6
+Introduction to basic softball skills, foundational movement, and learning the game through fun, engaging instruction.
+
+8U
+Coach Pitch
+Ages 7 to 8
+Reinforcement of fundamentals, athletic development, and introduction to basic game concepts and situations.
+
+10U
+Kids Pitch
+Ages 9 to 10
+Continued skill refinement and introduction to competition through developmental, coach-supported games.
+
+12U
+Transitional Development
+Introduction to high-performance training and competitive softball. Athletes become proficient in fundamental skills, learn more complex game strategy, begin gym-based athletic development, and transition into league and tournament-style play on Bahamas Premier teams.
+
+14U+
+College Prep
+Advanced training environment designed for athletes pursuing collegiate softball opportunities. Focus on advanced skill breakdowns, high-level game concepts, advanced athletic development, elite competition, and recruiting preparation.
+
+## WHY SOFTBALL MATTERS
+
+Softball builds values and experiences that shape girls far beyond the field.
+
+Physical Development
+Improves coordination, balance, and body control.
+Develops strength, speed, agility, and endurance.
+Builds healthy habits at a young age.
+Supports long-term physical health.
+
+Social Development
+Builds friendships.
+Teaches social and interpersonal skills.
+Exposes girls to diverse personalities.
+Provides community.
+
+Cognitive Growth
+Improves focus and concentration.
+Enhances strategic thinking.
+Reinforces problem-solving under pressure.
+
+Long-Term Opportunity
+Softball can lead to college scholarships.
+Softball can create international competition opportunities.
+Girls who play sports often develop leadership, confidence, resilience, discipline, and responsibility that support them far beyond the field.
+
+Values to highlight:
+
+Confidence
+Resilience
+Leadership
+Discipline
+Teamwork
+Responsibility
+Physical Health
+
+Closing line:
+
+Girls who play sports do not just become better athletes. They become stronger students, leaders, and future professionals.
+
+## DEVELOPMENT PHILOSOPHY
+
+Headline:
+A Development System Built for Long-Term Growth
+
+Intro:
+Bahamas Premier is built on intentional development. From how we train to how we structure each session, every part of the program is designed to help athletes grow on and off the field.
+
+Athleticism First
+We prioritize speed, coordination, strength, balance, and body control as the foundation for long-term softball success.
+
+Efficient Training Sessions
+Our sessions are planned with purpose. Small groups, station work, smooth transitions, and clear structure help maximize every minute.
+
+Structured Curriculum
+Athletes learn through an age-appropriate system designed to build skills progressively over time.
+
+Intentional Player-to-Coach Ratios
+Appropriate ratios help athletes receive more attention, repetitions, and feedback.
+
+Development Over Competition
+In the early stages, we prioritize fundamentals, confidence, game IQ, and love for the game.
+
+Whole-Girl Growth
+We use softball to support personal, cognitive, social, and character development.
+
+## PARENT EXPECTATIONS
+
+Headline:
+Our Parents Are Part of the Team
+
+Intro:
+At Bahamas Premier, we believe development works best when coaches, athletes, and families work together. We ask our parents to help us create a positive, supportive, and high-standard environment.
+
+Support Your Athlete
+Encourage effort, growth, and enjoyment of the game rather than focusing only on results or performance.
+
+Value Development Over Wins
+Prioritize long-term growth over short-term outcomes. Success is not defined only by wins, statistics, or game results.
+
+Trust the Development Process
+Growth is not always immediate, and every athlete progresses at a different pace.
+
+Trust Her Coaches
+Allow coaches to coach and athletes to learn independently. Please avoid sideline coaching, instructional comments during practice, entering the dugout, or coming onto the field unless directed by a coach.
+
+Promote Positive Sideline Behavior
+Cheer, encourage, and support all athletes. Avoid criticism or negative comments toward players, coaches, officials, or other families. Please avoid inappropriate language, smoking, alcohol use, or any behavior that does not reflect the culture and standards of Bahamas Premier.
+
+Prioritize Communication
+Read program updates and communicate absences, scheduling conflicts, or concerns in a timely manner.
+
+Model Respect and Sportsmanship
+Treat coaches, athletes, parents, officials, and others with kindness and respect.
+
+Reinforce Our Culture at Home
+Help us encourage discipline, responsibility, effort, teamwork, respect, and positive attitudes.
+
+Support Preparation and Accountability
+Help your athlete arrive on time, prepared, and ready to learn.
+
+Partner With Us in Whole-Girl Development
+We value character, confidence, leadership, and personal growth just as much as athletic performance. We may ask athletes to participate in field or at-home activities that support cognitive, personal, and social development.
+
+Be Part of Our Village
+Bahamas Premier is more than softball. It is a family. We encourage parents to help build an environment where every girl feels supported, encouraged, and connected.
+
+## COMMUNICATION STANDARDS
+
+Headline:
+Clear Communication Creates a Better Experience
+
+Intro:
+At Bahamas Premier, we believe communication should be timely, organized, and consistent. Our goal is to provide families with the information they need while creating a smooth and positive experience for athletes, parents, and coaches.
+
+Email
+info@bahamaspremier.com
+
+Used for:
+Registration and payment confirmations
+Parent and guardian onboarding information
+Program updates
+Important announcements
+Premier Player Reports
+End-of-program information
+
+WhatsApp Community
+(242) 810-BPGF (2743)
+
+Used for:
+Weekly reminders
+Weather updates
+Session reminders
+Cancellations or schedule changes
+Quick announcements
+Day-of logistics
+
+Social Media
+Instagram: @bahamaspremier
+Facebook: Bahamas Premier Girls Fastpitch
+
+Used for:
+Program highlights
+Athlete features
+Photos and videos
+Educational content
+Bahamas Premier news
+
+Communication Expectations
+
+Bahamas Premier is committed to:
+Communicating clearly and professionally
+Providing advance notice whenever possible
+Sending important updates in a timely manner
+Responding respectfully and promptly
+Keeping families informed throughout the program
+
+Families are expected to:
+Read all emails and WhatsApp updates
+Respond to time-sensitive forms or messages when needed
+Notify the team of absences and tardiness in advance whenever possible
+Communicate schedule conflicts or concerns early
+
+Response Time Standards
+Monday to Friday: within 24 hours
+Weekends, session days, and holidays: within 24 to 48 hours
+
+Questions and Concerns Process
+If questions or concerns arise:
+Reach out directly to the Bahamas Premier team.
+Allow time for a response.
+Approach conversations positively and respectfully.
+Avoid discussing concerns during active sessions unless urgent.
+If there is a concern during a session, please pull a coach aside or wait until the session ends.
+
+Session time is dedicated to athlete instruction and supervision. The best athlete experience happens when coaches and parents work together.
+
+## PLAYER EXPECTATIONS
+
+Headline:
+The Premier Girl Standard
+
+Subheading:
+Who We Are. How We Operate. Who We Strive to Become.
+
+Premier Girls Show Up Ready
+We arrive on time, prepared, and ready to learn with a positive attitude.
+
+Premier Girls Are Good Teammates
+We encourage one another, celebrate others, and value team success over individual recognition.
+
+Premier Girls Are Great People
+We treat others with kindness, integrity, and love both on and off the field.
+
+Premier Girls Respect Others
+We show respect to coaches, teammates, parents, opponents, officials, and ourselves.
+
+Premier Girls Are Coachable
+We listen, learn, ask questions, and respond to correction with a growth mindset.
+
+Premier Girls Compete With Character
+We play with integrity, humility, and sportsmanship in every situation.
+
+Premier Girls Work Hard
+We train with purpose and embrace the process of becoming better every day.
+
+Premier Girls Give Great Effort
+We hustle and give our best effort regardless of the activity or outcome.
+
+Premier Girls Are Disciplined
+We practice focus, responsibility, self-control, and commitment.
+
+Premier Girls Lead By Example
+Whether on the field, in school, at home, or in the community, we show leadership through our actions, effort, attitude, and the way we treat others.
+
+Premier Girls Are Resilient
+We understand that mistakes are part of learning, and we choose effort, improvement, and persistence.
+
+Premier Girls Have Fun and Love the Game
+We play with energy and passion, and we remember that softball is something we do, not who we are.
+
+Premier Girls Represent Bahamas Premier With Pride
+We operate in excellence, set the standard, and make our Bahamas Premier community proud.
+
+Closing:
+Premier Girls are not expected to be perfect. We are expected to continuously work toward becoming the best versions of ourselves.
+
+Softball excellence is the standard. Whole-girl development is the mission.
+
+## PROGRAM LOGISTICS
+
+Dates:
+Every Sunday from June 14 to August 16, except June 28.
+
+Location:
+St. Augustine's College
+
+Session Length:
+1 hour
+
+Tentative Sunday Schedule:
+6U, ages 5 to 6: 2:30 PM to 3:30 PM
+8U, ages 7 to 8: 3:45 PM to 4:45 PM
+10U, ages 9 to 10: 5:00 PM to 6:00 PM
+
+Note:
+Athletes will ultimately be grouped with players in their age group. Final session times will be confirmed once groups have been finalized.
+
+Cost:
+$100
+
+Bahamas Premier aims to keep costs accessible through sponsor support to ensure every girl has the opportunity to participate.
+
+Payment Information:
+[PAYMENT INFORMATION PLACEHOLDER]
+
+Directions:
+[DIRECTIONS PLACEHOLDER]
+
+Google Maps:
+[GOOGLE MAPS QR CODE PLACEHOLDER]
+
+## TYPICAL SESSION STRUCTURE
+
+Headline:
+What a Typical Session Looks Like
+
+Every session is designed to help athletes move better, learn the game, build confidence, and grow as young people.
+
+Every session will include:
+
+Athletic Development
+Move better.
+
+Softball Skill Development
+Throw, catch, hit, run.
+
+Game Understanding
+Learn the game.
+
+Character and Culture Development
+Grow as a whole person.
+
+Example Session Flow:
+Arrival and Check-In: 10 to 15 minutes before session
+Dynamic Warm-Up and Athletic Development: 10 minutes
+Skill Stations: 25 minutes
+Competition / Game Play: 15 minutes
+Team Reflection / Whole-Girl Development: 10 minutes
+
+Create this as a timeline graphic.
+
+## PROGRAM CALENDAR
+
+Premier Kids' Softball Program
+First Block Calendar
+June 14 to August 16
+
+Week 1: Sunday, June 14, Program Begins
+Week 2: Sunday, June 21, Regular Session
+Week 3: Sunday, June 28, No Session
+Week 4: Sunday, July 5, Regular Session
+Week 5: Sunday, July 12, Regular Session
+Week 6: Sunday, July 19, Regular Session
+Week 7: Sunday, July 26, Regular Session
+Week 8: Sunday, August 2, Regular Session
+Week 9: Sunday, August 9, Regular Session
+Week 10: Sunday, August 16, Final Session / Block Wrap-Up
+
+Create this as a clean table.
+
+## EQUIPMENT GUIDE
+
+Headline:
+Equipment Guide
+
+Intro:
+You do not need top-of-the-line equipment to begin. Our focus is helping athletes develop a love for the game, learn proper fundamentals, and build good habits. We recommend choosing equipment that fits your athlete properly rather than buying oversized items to “grow into.”
+
+Required Equipment:
+
+Softball Glove
+Recommended glove sizes:
+6U, ages 5 to 6: 10 inches to 10.5 inches
+8U, ages 7 to 8: 10.5 inches to 11 inches
+10U, ages 9 to 10: 11 inches to 11.5 inches
+
+Glove Tips:
+For a right-handed athlete, purchase a glove that fits the left hand.
+For a left-handed athlete, purchase a glove that fits the right hand.
+Choose a glove your athlete can comfortably open and close.
+Softer, game-ready gloves are best for beginners.
+Avoid oversized gloves.
+Keep your receipt in case you need to exchange.
+
+Athletic Clothing:
+Recommended: athletic shorts, tights, or softball pants, preferably black, and athletic socks or softball socks.
+Avoid: jeans, dresses, skirts, and open-toed shoes.
+
+Athletic Shoes or Cleats:
+Recommended: athletic tennis shoes or youth softball/baseball molded cleats.
+Cleats are especially recommended for 10U athletes because they will participate in more game-like activities and begin preparing for 12U+ play.
+Avoid: metal cleats.
+
+Softball Face Mask:
+Face masks provide added protection for fielders from batted balls and high-speed throws. They can also help timid fielders feel more confident.
+
+Recommended Equipment:
+Softball pants and socks
+Batting helmet with face mask
+Personal bat
+Softball equipment backpack
+
+Bat Size Guide:
+6U, ages 5 to 6: 24 inches to 26 inches
+8U, ages 7 to 8: 26 inches to 28 inches
+10U, ages 9 to 10: 28 inches to 30 inches
+
+Simple Bat Test:
+Have your athlete hold the bat straight out with one arm for 10 seconds. If she can hold it comfortably, it is likely a good size. If she struggles heavily, it is likely too heavy.
+
+Equipment Note:
+Expensive equipment does not automatically make athletes better. Proper fit and comfort matter much more than price. Label everything with your athlete's name.
+
+## WHAT TO BRING / WHAT WE PROVIDE
+
+What to Bring:
+Water or Gatorade
+Softball equipment
+Asthma pump or medical items, if applicable
+
+What We Provide:
+Bahamas Premier t-shirt
+Shared use equipment
+
+## SAFETY AND LIABILITY
+
+While Bahamas Premier is committed to providing a safe, positive, and supervised environment, participation in sports and physical activity carries an inherent risk of injury.
+
+Parents and guardians acknowledge that athletes participate at their own risk.
+
+Parents are responsible for ensuring their athlete is medically fit to participate and for informing Bahamas Premier staff of any medical conditions, allergies, injuries, or limitations prior to participation.
+
+Bahamas Premier is not responsible for:
+Injuries sustained during participation
+Lost, stolen, or misplaced personal items or equipment
+Damage to or theft involving vehicles or personal property at program sites
+
+Additional liability and medical information will be outlined in the required participant waivers completed prior to participation.
+
+## INVESTMENT AND VALUE
+
+Headline:
+More Than a $100 Program
+
+Copy:
+The registration fee for the Premier Kids' Softball Program is $100, but the value of the experience extends far beyond the cost.
+
+Families are investing in professional instruction, structured development, intentional coaching, whole-girl growth, a supportive community, and a long-term vision for opportunity in the sport.
+
+Every session is designed to help athletes move better, learn the game, build confidence, develop discipline, and grow within a positive softball environment.
+
+This is more than a program. It is an investment in the future of young Bahamian girls.
+
+## CLOSING PAGE CONTENT
+
+Headline:
+Welcome to the Bahamas Premier Family
+
+Copy:
+Thank you for trusting Bahamas Premier with your daughter's development.
+
+We are honored to be part of her softball journey and excited to build something meaningful with your family.
+
+Together, we are growing the game, raising the standard, and creating a stronger future for softball in The Bahamas.
+
+Final line:
+The future of Bahamas softball starts here.
+
+Contact:
+Website: [WEBSITE PLACEHOLDER]
+Email: info@bahamaspremier.com
+WhatsApp: (242) 810-BPGF (2743)
+Instagram: @bahamaspremier
+Facebook: Bahamas Premier Girls Fastpitch
+
+[LOGO PLACEHOLDER]
+[QR CODE PLACEHOLDER]
+
+# REQUIRED FINAL BOOKLET STRUCTURE
+
+Create the booklet with exactly 16 pages.
+
+For each page below, include:
+
+Page Number
+Page Title
+Purpose of the Page
+Final Polished Copy
+Layout Direction
+Visual Placeholders
+Designer Notes
+
+Do not summarize. Do not skip pages. Do not leave any copy unwritten. Do not say “insert content here” except for asset placeholders already listed.
+
+## PAGE 1: COVER
+
+Purpose:
+Introduce the booklet and establish the brand immediately.
+
+Final Copy:
+
+Bahamas Premier Girls Fastpitch
+Premier Parent Welcome Packet
+
+The Future of Bahamas Softball Lives Here
+
+Premier Kids' Softball Program
+June to August 2026
+
+Layout Direction:
+Full-page cover. Place the logo at the top or center. Use one strong hero image area. Keep the page bold, clean, energetic, and premium. The design should feel official and exciting.
+
+Visual Placeholders:
+[LOGO PLACEHOLDER]
+[HERO IMAGE PLACEHOLDER]
+
+Designer Notes:
+Keep copy minimal. The cover should immediately communicate that Bahamas Premier is serious, organized, and mission-driven.
+
+## PAGE 2: A LETTER FROM OUR FOUNDER
+
+Purpose:
+Create a warm, personal opening from Shawnté Curtis and make parents feel welcomed.
+
+Final Copy:
+
+A Letter From Our Founder
+
+Dear Premier Families,
+
+Welcome to Bahamas Premier Girls Fastpitch.
+
+I am honored to welcome your daughter into a program that means so much more than softball. Bahamas Premier was created because I know what it feels like to grow up loving this game without having a clear pathway designed for girls. I also know how powerful softball can be when young athletes are given structure, support, opportunity, and people who believe in them.
+
+This program is about helping girls learn the game, build confidence, develop discipline, and understand what it means to be part of something bigger than themselves.
+
+Thank you for trusting us with your daughter's development. We are excited to walk with your family through this journey and to help build a stronger future for softball in The Bahamas.
+
+With gratitude,
+
+Shawnté Curtis
+Founder, Bahamas Premier Girls Fastpitch
+
+Layout Direction:
+Letter-style layout. Use generous margins and a personal, warm design. Include a founder headshot area and signature area. The letter should feel polished but human.
+
+Visual Placeholders:
+[FOUNDER HEADSHOT PLACEHOLDER]
+[FOUNDER SIGNATURE PLACEHOLDER]
+
+Designer Notes:
+This page should feel personal, sincere, and welcoming. Avoid making it feel corporate.
+
+## PAGE 3: WELCOME TO BAHAMAS PREMIER
+
+Purpose:
+Combine the welcome section, who-we-are section, and core organization description into one strong introduction.
+
+Final Copy:
+
+Welcome to Bahamas Premier
+
+Bahamas Premier Girls Fastpitch is an elite youth softball ecosystem created to revolutionize softball in The Bahamas and nurture the next generation of Bahamian girls.
+
+This is more than a kids' program. It is the beginning of a long-term pathway built to introduce girls to softball earlier, develop them with intention, and create opportunities that can shape their futures on and off the field.
+
+Our work begins with the Premier Kids' Softball Program, but our vision extends far beyond one season. Bahamas Premier is building a complete softball ecosystem that supports athletes from their first swing to higher-level opportunities.
+
+We believe young Bahamian girls deserve access to quality coaching, structured development, supportive community, and clear pathways within their own country.
+
+The future of Bahamas softball lives here.
+
+Layout Direction:
+Use a clean intro page with one strong headline, short paragraphs, and a bold callout box for the final line. Consider a split layout with copy on one side and an image placeholder on the other.
+
+Visual Placeholders:
+[PROGRAM PHOTO PLACEHOLDER]
+[ICON PLACEHOLDER]
+
+Designer Notes:
+This page should feel inspiring and easy to read. Use visual hierarchy so parents understand the organization quickly.
+
+## PAGE 4: WHY WE EXIST
+
+Purpose:
+Explain the developmental gap in The Bahamas and why Bahamas Premier was created.
+
+Final Copy:
+
+Why We Exist
+
+Many young Bahamian girls have no clear entry point into softball. Most youth programs focus on baseball, and many girls do not begin softball until later than their international peers.
+
+In countries like the United States, Japan, and Canada, girls are often introduced to softball around ages 4 to 6. In The Bahamas, many girls begin around ages 11 to 13. That delayed start creates a gap in confidence, skill development, game IQ, athletic development, and long-term opportunity.
+
+Bahamas Premier exists to close that gap.
+
+We are creating a structured pathway that introduces girls to the game earlier, supports their development over time, and helps raise the overall standard of softball in The Bahamas.
+
+This is about more than participation. It is about access, development, opportunity, and building a stronger future for the sport.
+
+Layout Direction:
+Use a problem-and-solution layout. Left side: “The Gap.” Right side: “The Solution.” Include a bold callout for “Bahamas Premier exists to close that gap.”
+
+Visual Placeholders:
+[ICON PLACEHOLDER]
+[CALLOUT GRAPHIC PLACEHOLDER]
+
+Designer Notes:
+This page should feel urgent but hopeful. It should help parents understand why starting young matters.
+
+## PAGE 5: MISSION, VISION, AND FOUR PILLARS
+
+Purpose:
+Show the organization's foundation, purpose, and values in one concise page.
+
+Final Copy:
+
+Mission, Vision, and Four Pillars
+
+Our Mission
+Bahamas Premier Girls Fastpitch is an elite youth softball ecosystem committed to revolutionizing softball in The Bahamas while developing the next generation of Bahamian girls on and off the field.
+
+Our Vision
+Bahamas Premier exists to become the premier softball organization in The Bahamas and a leading model for youth softball development across the Caribbean.
+
+We are building a long-term ecosystem where Bahamian girls can access quality coaching, age-appropriate development, competitive opportunity, mentorship, leadership development, and pathways to higher-level softball without having to leave the country to find it.
+
+Our Four Pillars
+Every program, every practice, and every moment is built on these foundational principles.
+
+Grow the Game
+Increase national access and participation in softball by introducing more girls to the sport earlier and lowering barriers to entry.
+
+Raise the Standard
+Elevate how softball is trained, coached, officiated, and played across The Bahamas.
+
+Develop the Whole Girl
+Use softball as a vehicle to build confident, disciplined, educated, God-fearing, and empowered young women.
+
+Bring Opportunity Home
+Create in-country pathways for elite training, competition, and exposure so Bahamian softball players can succeed within their own borders.
+
+Layout Direction:
+Top half: two large cards for Mission and Vision. Bottom half: four smaller pillar cards with icons.
+
+Visual Placeholders:
+[LOGO PLACEHOLDER]
+[ICON PLACEHOLDER]
+[ICON PLACEHOLDER]
+[ICON PLACEHOLDER]
+[ICON PLACEHOLDER]
+
+Designer Notes:
+This should be one of the cleanest and most structured pages. Use cards to avoid a text-heavy feel.
+
+## PAGE 6: MORE THAN A PROGRAM
+
+Purpose:
+Show parents that Bahamas Premier is a long-term ecosystem, not a camp or temporary program.
+
+Final Copy:
+
+More Than a Program
+
+Bahamas Premier is not a one-off camp, short season, or temporary program. It is a long-term ecosystem and community designed to support girls from their first swing to higher-level opportunities.
+
+The goal is to become the premier softball organization of The Bahamas and set the standard for youth softball in the country and across the Caribbean.
+
+Bahamas Premier is not only focused on player development. We are working to transform the entire softball space through coaching education, parent support, competitive teams, umpire standards, college readiness, in-country opportunity, and community.
+
+Ecosystem Elements:
+Player Development
+Whole-Girl Growth
+Parent Support
+Coach Education
+Umpire Standards
+Competitive Teams
+College Readiness
+National Team Feeder
+In-Country Opportunity
+Community / Village
+
+Layout Direction:
+Use an ecosystem graphic as the main visual. Put “Bahamas Premier Girls Fastpitch” at the center and arrange the ecosystem elements around it. Use a short intro paragraph above or beside the graphic.
+
+Visual Placeholders:
+[ECOSYSTEM GRAPHIC PLACEHOLDER]
+
+Designer Notes:
+This should feel visionary and premium. The graphic should communicate depth and long-term mission quickly.
+
+## PAGE 7: MEET THE FOUNDER
+
+Purpose:
+Build trust and credibility through Shawnté Curtis' story.
+
+Final Copy:
+
+Founded by Shawnté Curtis
+Former National Team Athlete. Coach. Builder of the Future of Bahamian Softball.
+
+Shawnté Curtis is a former national team athlete and present coach dedicated to transforming the future of softball in The Bahamas.
+
+Her journey began at just five years old at the Freedom Farm Baseball League, where she played baseball in the absence of opportunities for girls in softball. For years, she competed alongside boys, often as the only girl on her team and in entire tournaments. That experience gave her firsthand understanding of the limited access young female athletes often face.
+
+After transitioning to softball at age 12, Shawnté went on to represent The Bahamas on both the Junior and Senior National Teams while also competing in travel ball. Through international competition, she saw a consistent gap in development, structure, and resources between Bahamian athletes and their global counterparts.
+
+Although she did not have the guidance needed to pursue collegiate softball, Shawnté earned a degree in Sport Administration and remained committed to the game. She later began her professional coaching career in Atlanta, working as an instructor at a baseball and softball training facility and coaching travel teams.
+
+Today, through Bahamas Premier, Shawnté is focused on elevating the entire softball ecosystem and raising the standard of the sport in The Bahamas.
+
+Pull Quote:
+“Softball changed my life. Now I want to help build a system that changes the lives of Bahamian girls for generations.”
+
+Layout Direction:
+Use a premium founder profile layout. Founder headshot on one side. Bio on the other. Pull quote in a highlighted box. Keep the page emotional, credible, and personal.
+
+Visual Placeholders:
+[FOUNDER HEADSHOT PLACEHOLDER]
+[PULL QUOTE PLACEHOLDER]
+
+Designer Notes:
+This page should build immediate trust with parents. Use enough copy to tell the story, but maintain strong spacing.
+
+## PAGE 8: A TWO-TRACK PIPELINE
+
+Purpose:
+Explain the current kids' program and the future Premier Girls Development Program in one connected pathway.
+
+Final Copy:
+
+A Two-Track Pipeline. One Vision.
+
+Bahamas Premier is designed to grow with athletes.
+
+The Premier Kids' Softball Program introduces young girls to the game through fun, fundamentals, athletic development, confidence-building, and early love for the sport.
+
+The Premier Girls Development Program will serve older athletes who are ready for higher standards, advanced training, competitive teams, recruiting preparation, and college readiness.
+
+Together, both tracks create a long-term pathway from first swing to higher-level opportunity.
+
+Kids' Softball Program
+Ages 5 to 10
+Fun, fundamentals, athletic development, confidence, and early love for the game.
+
+Premier Girls Development Program
+Ages 11 to 17
+Advanced development, competitive training, recruiting preparation, college readiness, and national team pathway preparation.
+
+Layout Direction:
+Use a two-column split. One side for Kids' Softball Program. One side for Premier Girls Development Program. Use a visual connector between the two columns to show progression.
+
+Visual Placeholders:
+[PROGRAM PHOTO PLACEHOLDER]
+[PATHWAY GRAPHIC PLACEHOLDER]
+
+Designer Notes:
+Make the two programs feel connected, not separate. Parents should understand that the organization is built to grow with their daughters.
+
+## PAGE 9: DEVELOPMENT PATHWAY
+
+Purpose:
+Show the long-term athlete journey from early introduction to college-prep development.
+
+Final Copy:
+
+Development Pathway
+
+Bahamas Premier is built for long-term growth. As athletes develop, the pathway grows with them.
+
+6U, T-Ball
+Ages 5 to 6
+Basic softball skills, foundational movement, and learning through fun.
+
+8U, Coach Pitch
+Ages 7 to 8
+Fundamentals, athletic development, and simple game concepts.
+
+10U, Kids Pitch
+Ages 9 to 10
+Skill refinement and introduction to developmental competition.
+
+12U, Transitional Development
+High-performance training introduction, competitive softball, game strategy, and gym-based athletic development.
+
+14U+, College Prep
+Advanced skill development, elite competition, recruiting preparation, and collegiate softball opportunity.
+
+Layout Direction:
+Create a horizontal or vertical pathway timeline. Each stage should have an age group, label, and one-line description.
+
+Visual Placeholders:
+[PATHWAY GRAPHIC PLACEHOLDER]
+[ICON PLACEHOLDER]
+
+Designer Notes:
+This should be a graphic-heavy page with concise copy. Make the pathway feel aspirational and clear.
+
+## PAGE 10: WHY SOFTBALL MATTERS
+
+Purpose:
+Help parents understand the bigger value of softball beyond practices and games.
+
+Final Copy:
+
+Why Softball Matters
+
+Softball builds values and experiences that shape girls far beyond the field.
+
+Physical Development
+Improves coordination, balance, body control, strength, speed, agility, and endurance.
+
+Social Development
+Builds friendships, teaches interpersonal skills, exposes girls to diverse personalities, and creates community.
+
+Cognitive Growth
+Improves focus, strategic thinking, decision-making, and problem-solving under pressure.
+
+Long-Term Opportunity
+Softball can open doors to college scholarships, international competition, leadership development, and lifelong confidence.
+
+Values Built Through Softball
+Confidence
+Resilience
+Leadership
+Discipline
+Teamwork
+Responsibility
+Physical Health
+
+Girls who play sports do not just become better athletes. They become stronger students, leaders, and future professionals.
+
+Layout Direction:
+Use a four-card layout for the four benefit categories. Add a values strip across the bottom. Use the final sentence as a bold callout.
+
+Visual Placeholders:
+[ICON PLACEHOLDER]
+[PROGRAM PHOTO PLACEHOLDER]
+
+Designer Notes:
+This page should educate parents and emotionally reinforce the value of participation.
+
+## PAGE 11: DEVELOPMENT PHILOSOPHY
+
+Purpose:
+Explain how Bahamas Premier trains athletes and why the program is structured.
+
+Final Copy:
+
+A Development System Built for Long-Term Growth
+
+Bahamas Premier is built on intentional development. From how we train to how we structure each session, every part of the program is designed to help athletes grow on and off the field.
+
+Athleticism First
+We prioritize speed, coordination, strength, balance, and body control as the foundation for long-term softball success.
+
+Efficient Training Sessions
+Our sessions are planned with purpose. Small groups, station work, smooth transitions, and clear structure help maximize every minute.
+
+Structured Curriculum
+Athletes learn through an age-appropriate system designed to build skills progressively over time.
+
+Intentional Player-to-Coach Ratios
+Appropriate ratios help athletes receive more attention, repetitions, and feedback.
+
+Development Over Competition
+In the early stages, we prioritize fundamentals, confidence, game IQ, and love for the game.
+
+Whole-Girl Growth
+We use softball to support personal, cognitive, social, and character development.
+
+Layout Direction:
+Use six cards or a clean system diagram. Each philosophy point should have a short title and one sentence description.
+
+Visual Placeholders:
+[ICON PLACEHOLDER]
+[SOFTBALL ACTION PHOTO PLACEHOLDER]
+
+Designer Notes:
+This page should make the program feel structured and high-quality without overwhelming parents.
+
+## PAGE 12: PARENT EXPECTATIONS
+
+Purpose:
+Set the standard for parent behavior and explain how parents partner with the program.
+
+Final Copy:
+
+Our Parents Are Part of the Team
+
+At Bahamas Premier, we believe development works best when coaches, athletes, and families work together. We ask our parents to help us create a positive, supportive, and high-standard environment.
+
+Support Your Athlete
+Encourage effort, growth, and enjoyment of the game rather than focusing only on results or performance.
+
+Value Development Over Wins
+Prioritize long-term growth over short-term outcomes. Success is not defined only by wins, statistics, or game results.
+
+Trust the Development Process
+Growth is not always immediate, and every athlete progresses at a different pace.
+
+Trust Her Coaches
+Allow coaches to coach and athletes to learn independently. Please avoid sideline coaching, instructional comments during practice, entering the dugout, or coming onto the field unless directed by a coach.
+
+Promote Positive Sideline Behavior
+Cheer, encourage, and support all athletes. Avoid criticism or negative comments toward players, coaches, officials, or other families.
+
+Model Respect and Sportsmanship
+Treat coaches, athletes, parents, officials, and others with kindness and respect.
+
+Be Part of Our Village
+Bahamas Premier is more than softball. It is a family. Help us build an environment where every girl feels supported, encouraged, and connected.
+
+Layout Direction:
+Use a parent code of conduct style page with short expectation blocks. Consider icons for support, respect, communication, and community.
+
+Visual Placeholders:
+[ICON PLACEHOLDER]
+[PROGRAM PHOTO PLACEHOLDER]
+
+Designer Notes:
+Keep the page firm but friendly. It should set standards without sounding harsh.
+
+## PAGE 13: COMMUNICATION STANDARDS + PREMIER GIRL STANDARD
+
+Purpose:
+Combine practical communication rules with the athlete standard in a split-page layout.
+
+Final Copy:
+
+Clear Communication Creates a Better Experience
+
+At Bahamas Premier, communication should be timely, organized, and consistent. Our goal is to provide families with the information they need while creating a smooth experience for athletes, parents, and coaches.
+
+Email
+info@bahamaspremier.com
+Used for registration confirmations, payment confirmations, parent onboarding, program updates, important announcements, Premier Player Reports, and end-of-program information.
+
+WhatsApp Community
+(242) 810-BPGF (2743)
+Used for weekly reminders, weather updates, session reminders, cancellations, schedule changes, quick announcements, and day-of logistics.
+
+Social Media
+Instagram: @bahamaspremier
+Facebook: Bahamas Premier Girls Fastpitch
+Used for program highlights, athlete features, photos, videos, educational content, and Bahamas Premier news.
+
+Response Time Standards
+Monday to Friday: within 24 hours
+Weekends, session days, and holidays: within 24 to 48 hours
+
+Questions and Concerns
+Please reach out directly to the Bahamas Premier team with questions or concerns. Avoid discussing concerns during active sessions unless urgent. Session time is dedicated to athlete instruction and supervision.
+
+The Premier Girl Standard
+Who We Are. How We Operate. Who We Strive to Become.
+
+Premier Girls:
+Show Up Ready
+Are Good Teammates
+Respect Others
+Are Coachable
+Compete With Character
+Work Hard
+Are Resilient
+Represent Bahamas Premier With Pride
+
+Premier Girls are not expected to be perfect. We are expected to continuously work toward becoming the best versions of ourselves.
+
+Softball excellence is the standard. Whole-girl development is the mission.
+
+Layout Direction:
+Split page into two sections. Left side: Communication Standards. Right side: Premier Girl Standard. Use clean cards and short bullets to keep it readable.
+
+Visual Placeholders:
+[ICON PLACEHOLDER]
+[QR CODE PLACEHOLDER]
+
+Designer Notes:
+This page has a lot of information. Use tight hierarchy, icons, dividers, and bold section labels. Do not make it look like a wall of text.
+
+## PAGE 14: PROGRAM LOGISTICS + TYPICAL SESSION
+
+Purpose:
+Give parents the key schedule, cost, location, and session structure in one practical page.
+
+Final Copy:
+
+Program Logistics
+
+Dates
+Every Sunday from June 14 to August 16, except June 28.
+
+Location
+St. Augustine's College
+
+Session Length
+1 hour
+
+Cost
+$100
+
+Bahamas Premier aims to keep costs accessible through sponsor support to ensure every girl has the opportunity to participate.
+
+Tentative Sunday Schedule
+6U, ages 5 to 6: 2:30 PM to 3:30 PM
+8U, ages 7 to 8: 3:45 PM to 4:45 PM
+10U, ages 9 to 10: 5:00 PM to 6:00 PM
+
+Final groupings and session times will be confirmed once registration numbers and age groups are finalized.
+
+Payment Information
+[PAYMENT INFORMATION PLACEHOLDER]
+
+Location and Directions
+[DIRECTIONS PLACEHOLDER]
+
+Google Maps
+[GOOGLE MAPS QR CODE PLACEHOLDER]
+
+What a Typical Session Looks Like
+
+Every session is designed to help athletes move better, learn the game, build confidence, and grow as young people.
+
+Session Flow:
+Arrival and Check-In: 10 to 15 minutes before session
+Dynamic Warm-Up and Athletic Development: 10 minutes
+Skill Stations: 25 minutes
+Competition / Game Play: 15 minutes
+Team Reflection / Whole-Girl Development: 10 minutes
+
+Layout Direction:
+Use clean info blocks for logistics. Use a small timeline graphic for the session flow. Payment, directions, and map QR code should be clearly separated.
+
+Visual Placeholders:
+[GOOGLE MAPS QR CODE PLACEHOLDER]
+[TIMELINE GRAPHIC PLACEHOLDER]
+[ICON PLACEHOLDER]
+
+Designer Notes:
+This page must be extremely clear and functional. Parents should be able to quickly find times, cost, location, payment, and session structure.
+
+## PAGE 15: PROGRAM CALENDAR + EQUIPMENT GUIDE
+
+Purpose:
+Give parents the first block calendar and a condensed equipment guide.
+
+Final Copy:
+
+Premier Kids' Softball Program
+First Block Calendar
+June 14 to August 16
+
+Week 1: Sunday, June 14, Program Begins
+Week 2: Sunday, June 21, Regular Session
+Week 3: Sunday, June 28, No Session
+Week 4: Sunday, July 5, Regular Session
+Week 5: Sunday, July 12, Regular Session
+Week 6: Sunday, July 19, Regular Session
+Week 7: Sunday, July 26, Regular Session
+Week 8: Sunday, August 2, Regular Session
+Week 9: Sunday, August 9, Regular Session
+Week 10: Sunday, August 16, Final Session / Block Wrap-Up
+
+Equipment Guide
+
+You do not need top-of-the-line equipment to begin. Proper fit and comfort matter much more than price.
+
+Required Equipment
+Softball glove
+Athletic clothing
+Athletic shoes or youth molded cleats
+Softball face mask
+
+Recommended Equipment
+Softball pants and socks
+Batting helmet with face mask
+Personal bat
+Softball equipment backpack
+
+Glove Size Guide
+6U, ages 5 to 6: 10 inches to 10.5 inches
+8U, ages 7 to 8: 10.5 inches to 11 inches
+10U, ages 9 to 10: 11 inches to 11.5 inches
+
+Bat Size Guide
+6U, ages 5 to 6: 24 inches to 26 inches
+8U, ages 7 to 8: 26 inches to 28 inches
+10U, ages 9 to 10: 28 inches to 30 inches
+
+Equipment Note
+Choose equipment your athlete can control comfortably. Avoid oversized gloves, metal cleats, jeans, dresses, skirts, and open-toed shoes. Label everything with your athlete's name.
+
+Layout Direction:
+Top half: calendar table with Week, Date, and Status columns. Bottom half: condensed equipment guide with required/recommended items and size charts.
+
+Visual Placeholders:
+[CALENDAR TABLE PLACEHOLDER]
+[EQUIPMENT IMAGE PLACEHOLDER]
+[GLOVE SIZE CHART PLACEHOLDER]
+[BAT SIZE CHART PLACEHOLDER]
+[QR CODE PLACEHOLDER]
+
+Designer Notes:
+Make June 28 stand out as “No Session.” If the page becomes too crowded, prioritize required equipment and size charts, then add a QR code placeholder for a full equipment guide.
+
+## PAGE 16: WHAT TO BRING, SAFETY, VALUE, AND CLOSING
+
+Purpose:
+Close with final practical reminders, safety language, value framing, and a warm welcome into the community.
+
+Final Copy:
+
+What to Bring
+Water or Gatorade
+Softball equipment
+Asthma pump or medical items, if applicable
+
+What We Provide
+Bahamas Premier t-shirt
+Shared use equipment
+
+Safety and Liability
+While Bahamas Premier is committed to providing a safe, positive, and supervised environment, participation in sports and physical activity carries an inherent risk of injury.
+
+Parents and guardians acknowledge that athletes participate at their own risk.
+
+Parents are responsible for ensuring their athlete is medically fit to participate and for informing Bahamas Premier staff of any medical conditions, allergies, injuries, or limitations prior to participation.
+
+Bahamas Premier is not responsible for injuries sustained during participation, lost or misplaced personal items, or damage to personal property at program sites.
+
+Additional liability and medical information will be outlined in the required participant waivers completed prior to participation.
+
+More Than a $100 Program
+The registration fee for the Premier Kids' Softball Program is $100, but the value of the experience extends far beyond the cost.
+
+Families are investing in professional instruction, structured development, intentional coaching, whole-girl growth, a supportive community, and a long-term vision for opportunity in the sport.
+
+This is more than a program. It is an investment in the future of young Bahamian girls.
+
+Welcome to the Bahamas Premier Family
+Thank you for trusting Bahamas Premier with your daughter's development.
+
+Together, we are growing the game, raising the standard, and creating a stronger future for softball in The Bahamas.
+
+The future of Bahamas softball starts here.
+
+Contact
+Website: [WEBSITE PLACEHOLDER]
+Email: info@bahamaspremier.com
+WhatsApp: (242) 810-BPGF (2743)
+Instagram: @bahamaspremier
+Facebook: Bahamas Premier Girls Fastpitch
+
+Layout Direction:
+Use a final-page structure with four distinct sections: checklist, safety callout, value statement, and closing contact block. Use strong spacing and visual separation so it does not feel crowded.
+
+Visual Placeholders:
+[LOGO PLACEHOLDER]
+[QR CODE PLACEHOLDER]
+[ICON PLACEHOLDER]
+
+Designer Notes:
+This page should leave parents feeling informed, reassured, and proud to be part of Bahamas Premier. If the safety section feels too long, make it a smaller boxed legal callout while giving the emotional closing more visual weight.
+
+# FINAL INSTRUCTION TO CLAUDE
+
+Now create the complete page-by-page booklet blueprint using the exact 16-page structure above.
+
+For each page, provide:
+
+Page Number
+Page Title
+Purpose of the Page
+Final Polished Copy
+Layout Direction
+Visual Placeholders
+Designer Notes
+
+Do not summarize.
+Do not skip pages.
+Do not leave any copy unwritten.
+Do not create a 24-page version.
+Do not use filler images.
+Do not rely on opening links.
+Do not invent payment information, directions, logos, photos, or QR codes.
+Do not say “insert content here” except for the approved placeholders listed above.
+
+Make this polished enough that a designer, Canva builder, or Claude Code project can immediately turn it into a premium 16-page parent welcome booklet.
